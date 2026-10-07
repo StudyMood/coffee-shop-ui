@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "753362460424",
+    "project_id": "brewhaven-coffee-2026",
+    "storage_bucket": "brewhaven-coffee-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753362460424:android:8236cbbec3135624db16bd",
+        "android_client_info": {
+          "package_name": "com.brewhaven.app.brew_haven"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9EiGcAet0GsqaTVn5WVCCLMogbcdIoPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
